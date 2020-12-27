@@ -1,3 +1,2 @@
-new
-py
+ttt
 file
